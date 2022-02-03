@@ -1,1 +1,1 @@
-# HUMCOM_IDA2_2021-2022
+# Exercise 1
